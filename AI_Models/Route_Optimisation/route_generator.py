@@ -1,5 +1,3 @@
-# Data in thedf, destdf, srcdf
-# Map API uses (lat,lon) and PyDeck uses (lon, lat)
 
 import numpy as np
 from sklearn.cluster import KMeans
