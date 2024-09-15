@@ -1,0 +1,11 @@
+Scrap Type,Quantity (kg),Region,External Factor 1,External Factor 2,Price (per kg)
+Metal,100,1,1200,3,25.5
+Plastic,200,2,1300,5,10.0
+Paper,150,1,1250,4,5.0
+Metal,250,3,1400,6,27.0
+Plastic,300,2,1350,4,11.5
+Paper,400,3,1280,3,6.0
+Metal,350,1,1450,7,29.0
+Plastic,150,2,1200,3,9.0
+Paper,250,3,1300,5,7.0
+Metal,100,2,1400,6,26.0
