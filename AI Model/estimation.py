@@ -4,7 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
-data = pd.read_csv('your_data.csv')
+data = pd.read_csv('scraps_prices.csv')
 
 label_encoder = LabelEncoder()
 data['scrap_type_encoded'] = label_encoder.fit_transform(data['scrap_type'])
